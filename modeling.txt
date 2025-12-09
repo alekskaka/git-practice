@@ -1,1 +1,2 @@
 Initial model ideas
+Simple linear regression
