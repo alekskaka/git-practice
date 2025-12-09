@@ -1,1 +1,1 @@
-EDA notes for project
+Initial EDA notes
